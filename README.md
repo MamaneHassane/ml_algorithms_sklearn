@@ -19,7 +19,7 @@
 ---
     Polynomiale : Le modèles est une équation avec plusieurs variables
 ---
-    Classification : L'objectif est de classifier les données en plusieurs groupes grâce à un algorithme de classification :
+    Classification : L'objectif est de classifier les données en plusieurs groupes grâce à des algorithmes de classification dont :
       - knn : K nearest neighbors
 --- 
 #### Dans l'apprentissage non supervisé :
